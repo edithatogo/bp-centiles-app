@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Blood Pressure Centiles App
+authors:
+- name: Boston Children's Hospital
+- name: SMART on FHIR contributors
+repository-code: https://github.com/edithatogo/bp-centiles-app
+url: https://github.com/edithatogo/bp-centiles-app
+references:
+- type: software
+  title: Blood Pressure Centiles App
+  authors:
+  - name: Boston Children's Hospital
+  - name: SMART on FHIR contributors
+  repository-code: https://github.com/smart-on-fhir/bp-centiles-app
+  url: https://github.com/smart-on-fhir/bp-centiles-app
